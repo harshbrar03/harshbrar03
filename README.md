@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 # 👋 Hi there! I'm Harshdeep Singh 
 
 🌟 **Aspiring Data Analyst**  
-🎓 **M.Sc. IT Student | GGDSD-32, Chandigarh**  
-📍 Based in India.  
+🎓 M.Sc. IT Student | GGDSD-32, Chandigarh<br>
+&nbsp;📍 &nbsp;Based in India 
 
 ---
 
