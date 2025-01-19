@@ -49,5 +49,5 @@ I am passionate about technology, data analytics, and solving real-world problem
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshbrar03&show_icons=true&theme=radical)  
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshbrar03&show_icons=true&theme=radical) --> 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshbrar03&layout=compact&theme=radical)
