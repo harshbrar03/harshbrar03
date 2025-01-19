@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there! I'm Harshdeep Singh 
 
-🌟 **Data Analyst**  
+🌟 **Aspiring Data Analyst**  
 🎓 **M.Sc. IT Student | GGDSD-32 College, Chandigarh**  
 📍 Based in India.  
 
