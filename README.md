@@ -29,30 +29,21 @@ I am passionate about technology, data analytics, and solving real-world problem
 
 ## 🛠️ Skills & Tools  
 ### Languages
-- Python  
-- SQL  
+- SQL, Python 
 
 ### Data Analytics
-- Power BI, Tableau `(Dashboards, Visualizations)`  
-- Pandas, NumPy, Matplotlib, Seaborn  
+- Tableau, PowerBI `(Dashboards, Visualizations)`  
+- Pandas, NumPy, Matplotlib, Seaborn, SQLite3  
 
 ### Other Tools
-- Canva
-- SPSS
-- Git & GitHub
-- Microsoft Excel (Pivot Tables, Data Cleaning)  
+- Canva, SPSS
 
 ---
 
 ## 📈 Projects
 - **[Superstore Analysis (Power BI)](https://github.com/harshbrar03)**: Analyzed sales, profit, and customer insights using dashboards.
+- **[Superstore Analysis (Power BI)](https://github.com/harshbrar03)**: Analyzed sales, profit, and customer insights using dashboards.
 - Spotify Song Analysis (in progress): Leveraging Python for data exploration and visualization.  
-
----
-
-## 💬 Let's Connect!  
-- LinkedIn: [linkedin.com/in/harshbrar03/](https://www.linkedin.com/in/harshbrar03/)  
-- GitHub: [github.com/harshbrar03](https://github.com/harshbrar03)  
 
 ---
 
