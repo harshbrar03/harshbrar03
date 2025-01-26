@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋 Hi there! I'm Harshdeep Singh 
 
 🌟 **Aspiring Data Analyst**  
-🎓 M.Sc. IT Student | GGDSD-32, Chandigarh<br>
+🎓 MSc. IT Student | GGDSD-32, Chandigarh<br>
 &nbsp;📍 &nbsp;Based in India 
 
 ---
@@ -42,7 +42,7 @@ I am passionate about technology, data analytics, and solving real-world problem
 
 ## 📈 Projects
 - **[Superstore Dashboard (Power BI)](https://github.com/harshbrar03/Superstore-Dashboard)**: Analyzed sales, profit, customer behavior and sales managers performance.
-- **[Diwali Sales Analysis (Python)](https://github.com/harshbrar03/Diwali-Sales-Analysis)**: Analyzed Diwali sales data to uncover customer trends, purchasing behaviors, and product performance.
+- **[Diwali Sales Analysis (Python, Tableau)](https://github.com/harshbrar03/Diwali-Sales-Analysis)**: Analyzed Diwali sales data to uncover customer trends, purchasing behaviors, and product performance.
 - Spotify Song Analysis (in progress).  
 
 ---
