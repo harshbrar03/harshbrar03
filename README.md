@@ -43,6 +43,7 @@ I am passionate about technology, data analytics, and solving real-world problem
 ## 📈 Projects
 - **[Superstore Dashboard (Power BI)](https://github.com/harshbrar03/Superstore-Dashboard)**: Analyzed sales, profit, customer behavior and sales managers performance.
 - **[Diwali Sales Analysis (Python, Tableau)](https://github.com/harshbrar03/Diwali-Sales-Analysis)**: Analyzed Diwali sales data to uncover customer trends, purchasing behaviors, and product performance.
+- **[SQL Sales Insights (SQL)](https://github.com/harshbrar03/SQL-Sales-Insights)**: Analyzed sales data using advanced SQL techniques like CTEs, window functions, and views to derive insights on salesperson performance, product sales, and customer spending.
 - Spotify Song Analysis (in progress).  
 
 ---
