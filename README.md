@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 
 # 👋 Hi there! I'm Harshdeep Singh 
 
-🌟 **Aspiring Data Analyst**  
+<!--🌟 **Aspiring Data Analyst**  -->
 🎓 MSc. IT Student | GGDSD-32, Chandigarh<br>
 &nbsp;📍 &nbsp;Based in India 
 
 ---
-
+<!--
 ## 🚀 About Me
 I am passionate about technology, data analytics, and solving real-world problems with actionable insights. I aim to hone my skills and secure an internship in data analysis, leveraging my projects and knowledge to make a meaningful impact.
 
 ---
-
+-->
 ## 🛠️ Skills & Tools  
 ### Languages
 - SQL, Python 
@@ -35,8 +35,6 @@ I am passionate about technology, data analytics, and solving real-world problem
 - Tableau, PowerBI `(Dashboards, Visualizations)`  
 - Pandas, NumPy, Matplotlib, Seaborn, SQLite3  
 
-### Other Tools
-- Canva, SPSS
 
 ---
 
