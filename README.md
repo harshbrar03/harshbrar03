@@ -28,13 +28,12 @@ I am passionate about technology, data analytics, and solving real-world problem
 ---
 -->
 ## 🛠️ Skills & Tools  
-### Languages
-- SQL, Python 
 
-### Data Analytics
-- Tableau, PowerBI `(Dashboards, Visualizations)`  
-- Pandas, NumPy, Matplotlib, Seaborn, SQLite3  
-
+- <b>Languages:</b> SQL, Python
+- <b>Libraries:</b> NumPy, Pandas, Matplotlib, Seaborn, SQLite3
+- <b>Data Visualization Tools:</b> Tableau, PowerBI
+- <b>Databases:</b> MySQL
+- <b>Tools & Technologies:</b> Git, GitHub, Microsoft Excel, Google Sheets
 
 ---
 
