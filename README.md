@@ -41,6 +41,7 @@ I am passionate about technology, data analytics, and solving real-world problem
 - **[Superstore Dashboard (Power BI)](https://github.com/harshbrar03/Superstore-Dashboard)**: Analyzed sales, profit, customer behavior and sales managers performance.
 - **[Diwali Sales Analysis (Python, Tableau)](https://github.com/harshbrar03/Diwali-Sales-Analysis)**: Analyzed Diwali sales data to uncover customer trends, purchasing behaviors, and product performance.
 - **[SQL Sales Insights (SQL)](https://github.com/harshbrar03/SQL-Sales-Insights)**: Analyzed sales data using advanced SQL techniques like CTEs, window functions, and views to derive insights on salesperson performance, product sales, and customer spending.
+- **[Spam Detection Model (Python)](https://github.com/harshbrar03/Spam-Detection)**: Spam detection project using Naive-Bayes Classifier with a Tkinter GUI.
 - Spotify Song Analysis (in progress).  
 
 ---
