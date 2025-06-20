@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi there! I'm Harshdeep Singh 
+# Harshdeep Singh 
 
-<!--🌟 **Aspiring Data Analyst**  -->
-🎓 MSc. IT Student | GGDSD-32, Chandigarh<br>
-&nbsp;📍 &nbsp;Based in India 
+<i>Aspiring Data Analyst</i> | <i>MSc. IT Student</i> | &nbsp;📍&nbsp;<i>Based in India</i> 
 
 ---
 <!--
@@ -30,10 +28,10 @@ I am passionate about technology, data analytics, and solving real-world problem
 ## 🛠️ Skills & Tools  
 
 - <b>Languages:</b> SQL, Python
-- <b>Libraries:</b> NumPy, Pandas, Matplotlib, Seaborn, SQLite3
-- <b>Data Visualization Tools:</b> Tableau, PowerBI
-- <b>Databases:</b> MySQL
-- <b>Tools & Technologies:</b> Git, GitHub, Microsoft Excel, Google Sheets
+- <b>Libraries:</b> Pandas, NumPy, Matplotlib, Seaborn
+- <b>Data Visualization Tools:</b> PowerBI, Tableau
+- <b>Databases:</b> MySQL, PostgreSQL
+- <b>Other Tools:</b>  Google Colab, Jupyter Notebook, Git & GitHub
 
 ---
 
