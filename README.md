@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Harshdeep Singh 
 
-<i>Aspiring Data Analyst</i> | <i>MSc. IT Student</i> | &nbsp;📍&nbsp;<i>Based in India</i> 
+<i>Aspiring Data Analyst</i> | <i>MSc. IT Student (Specializing in Data Analytics)</i>
 
 ---
 <!--
