@@ -44,15 +44,15 @@ I am passionate about technology, data analytics, and solving real-world problem
 - **TechStack:** `Python` and `Tableau`
 - **Project Description:** Analyzed Diwali sales data to uncover customer trends, purchasing behaviors, and product performance.
 
-**3.** **[Superstore Dashboard (Power BI)](https://github.com/harshbrar03/Superstore-Dashboard)**:
+**3.** **[Superstore Dashboard](https://github.com/harshbrar03/Superstore-Dashboard)**:
 - **TechStack:** `Power BI`
 - **Project Description:** Analyzed sales, profit, customer behavior and sales managers performance.
 
-**4.** **[Spam Detection Model (Python)](https://github.com/harshbrar03/Spam-Detection)**:
+**4.** **[Spam Detection Model](https://github.com/harshbrar03/Spam-Detection)**:
 - **TechStack:** `Python`
 - **Project Description:** Spam detection project using Naive-Bayes Classifier with a Tkinter GUI.
 
-**5.** **[SQL Sales Insights (SQL)](https://github.com/harshbrar03/SQL-Sales-Insights)**:
+**5.** **[SQL Sales Insights](https://github.com/harshbrar03/SQL-Sales-Insights)**:
 - **TechStack:** `SQL`
 - **Project Description:** Analyzed sales data using advanced SQL techniques like CTEs, window functions, and views to derive insights on salesperson performance, product sales, and customer spending.
 
