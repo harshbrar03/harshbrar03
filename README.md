@@ -48,15 +48,19 @@ I am passionate about technology, data analytics, and solving real-world problem
 - **TechStack:** `Power BI`
 - **Project Description:** Analyzed sales, profit, customer behavior and sales managers performance.
 
-**4.** **[Spam Detection Model](https://github.com/harshbrar03/Spam-Detection)**:
+**4.** **[Coffee Sales Dashboard](https://github.com/harshbrar03/Coffee-Sales-Dashboard)**:
+- **TechStack:** `Excel`
+- **Project Description:** An interactive coffee sales dashboard built in Excel using PivotTables, slicers and XLOOKUP.
+
+**5.** **[Spam Detection Model](https://github.com/harshbrar03/Spam-Detection)**:
 - **TechStack:** `Python`
 - **Project Description:** Spam detection project using Naive-Bayes Classifier with a Tkinter GUI.
 
-**5.** **[SQL Sales Insights](https://github.com/harshbrar03/SQL-Sales-Insights)**:
+**6.** **[SQL Sales Insights](https://github.com/harshbrar03/SQL-Sales-Insights)**:
 - **TechStack:** `SQL`
 - **Project Description:** Analyzed sales data using advanced SQL techniques like CTEs, window functions, and views to derive insights on salesperson performance, product sales, and customer spending.
 
-**6.** **Spotify Song Analysis** (in progress).  
+**7.** **Spotify Song Analysis** (in progress).  
 
 ---
 
